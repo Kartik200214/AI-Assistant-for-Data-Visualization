@@ -7,3 +7,5 @@ langchain_community
 langchain_experimental
 python-dotenv
 cohere
+tabulate
+wikipedia
